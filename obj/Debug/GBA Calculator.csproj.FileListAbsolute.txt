@@ -1,0 +1,12 @@
+D:\Programming\Projects\GBA Calculator\bin\Debug\GBA Calculator.exe.config
+D:\Programming\Projects\GBA Calculator\bin\Debug\GBA Calculator.exe
+D:\Programming\Projects\GBA Calculator\bin\Debug\GBA Calculator.pdb
+D:\Programming\Projects\GBA Calculator\obj\Debug\GBA Calculator.csproj.AssemblyReference.cache
+D:\Programming\Projects\GBA Calculator\obj\Debug\GBA_Calculator.Form1.resources
+D:\Programming\Projects\GBA Calculator\obj\Debug\GBA_Calculator.Properties.Resources.resources
+D:\Programming\Projects\GBA Calculator\obj\Debug\GBA Calculator.csproj.GenerateResource.cache
+D:\Programming\Projects\GBA Calculator\obj\Debug\GBA Calculator.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\GBA Calculator\obj\Debug\GBA Calculator.exe
+D:\Programming\Projects\GBA Calculator\obj\Debug\GBA Calculator.pdb
+D:\Programming\Projects\GBA Calculator\bin\Debug\Guna.UI2.dll
+D:\Programming\Projects\GBA Calculator\obj\Debug\GBA Calc.A54E1713.Up2Date
